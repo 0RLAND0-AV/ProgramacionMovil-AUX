@@ -176,14 +176,16 @@ lib/
 
 ### Pantallas de la aplicacion
 
-![Home Inicial](/resources/screens/home.jpg)
+<span>
+  <img src="/resources/screens/home.jpg" alt="Home" width="200" height="400" style="margin-right:10px">
+  <img src="/resources/screens/settings.jpg" alt="Settings" width="200" height="400" style="margin-right:10px">
+  <img src="/resources/screens/chat1.jpg" alt="Chat1" width="200" height="400" style="margin-right:10px">
+</span>
 
-<img src="/resources/screens/home.jpg" alt="Home" width="100" height="200">
-<img src="/resources/screens/settings.jpg" alt="Settings" width="100" height="300">
-<img src="/resources/screens/chat1.jpg" alt="Chat1" width="100" height="400">
-<img src="/resources/screens/chat2.jpg" alt="Chat2" width="200" height="300">
-<img src="/resources/screens/chat3.jpg" alt="Chat3" width="200" height="400">
-
+<span>
+  <img src="/resources/screens/chat2.jpg" alt="Chat2" width="200" height="400" style="margin-right:10px">
+  <img src="/resources/screens/chat3.jpg" alt="Chat3" width="200" height="400">
+</span>
 
 ## 🔧 Comandos Útiles de Flutter
 
